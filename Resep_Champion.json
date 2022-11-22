@@ -1,0 +1,84 @@
+{
+  "champion": [
+    {
+      "nama": "Tetsu Katsuya",
+      "jenis": "V60",
+      "Juara": "World Brewers Cup 2016",
+      "Bahan": "20 gr kopi",
+      "Gilingan": "Coarse",
+      "Rasio": "4:6",
+      "Suhu": "92 derajat",
+      "Resep": "<p>Untuk proses pouring pertama yaitu 40%, air yang dituangkan adalah sebanyak 120 gram&mdash;namun dilakukan dalam 2 tahap.</p>\n<p>00:45 Tuangkan 50 ml air dan biarkan blooming dalam 45 detik.</p>\n<p>00:45 &ndash; 1:30 Tuangkan 70 ml pour</p>\n<p>Proses pouring pertama yang 40% ini menentukan level acidity, balance, dan sweetness dari kopi.</p>\n<p>Untuk pouring kedua yaitu 60%, air yang dituangkan adalah sebanyak 180 grams dan dilakukan dalam 3 tahap. Sementara pouring kedua yang 60%, akan menentukan level kekuatan/strength dari kopi itu.</p>\n<p>01:30 &ndash; 02:10 Tuangkan 60 ml air</p>\n<p>02:10 &ndash; 02:45 Tuangkan 60 ml air</p>\n<p>02:45 &ndash; 03:00 Tuangkan 60 ml pour</p>\n<p>03:00 &ndash; 03:30 Angkat dripper</p>\n<p>Sajikan pada cangkir keramik.</p>"
+    },
+    {
+      "nama": "Shih Yuan Hsu",
+      "jenis": "V60",
+      "Juara": "World Brewers Cup 2022",
+      "Bahan": "14 gr kopi",
+      "Gilingan": "Medium",
+      "Rasio": "1:14",
+      "Suhu": "89 derajat",
+      "Resep": "<p>00:30 Tuangkan 50 ml air dan biarkan blooming dalam 30 detik.</p>\n<p>00:30 &ndash; 01:00 Tuangkan 50 ml pour</p>\n<p>01:00 &ndash; 01:30 Tuangkan 50 ml air</p>\n<p>01:30 &ndash; 02:00 Tuangkan 50 ml air</p>\n<p>Sajikan</p>"
+    },
+    {
+      "nama": "Jhon Christoper",
+      "jenis": "V60",
+      "Juara": "World Brewers Cup 2022",
+      "Bahan": "16 gr kopi",
+      "Gilingan": "Fine",
+      "Rasio": "1:14",
+      "Suhu": "92 derajat",
+      "Resep": "<p>00:30 Tuangkan 40 ml air dan biarkan blooming dalam 30 detik.</p>\n<p>00:30 &ndash; 01:25 Tuangkan 120 ml pour</p>\n<p>01:25 &ndash; 02:25 Tuangkan 70 ml air</p>\n<p>Sajikan</p>"
+    },
+    {
+      "nama": "Elika Liftee",
+      "jenis": "V60",
+      "Juara": "World Brewers Cup 2022",
+      "Bahan": "20 gr kopi",
+      "Gilingan": "Medium",
+      "Rasio": "1:12",
+      "Suhu": "93 derajat",
+      "Resep": "<p>00:45 Tuangkan 50 ml air dan biarkan blooming dalam 45 detik.</p>\n<p>00:45 &ndash; 01:30 Tuangkan 50 ml pour</p>\n<p>01:30 &ndash; 02:15 Tuangkan 50 ml air</p>\n<p>02:15 &ndash; 03:00 Tuangkan 50 ml air</p>\n<p>03:00 &ndash; 03:45 Tuangkan 50 ml air</p>\n<p>Sajikan</p>"
+    },
+    {
+      "nama": "Elysia Tan",
+      "jenis": "V60",
+      "Juara": "World Brewers Cup 2022",
+      "Bahan": "15 gr kopi",
+      "Gilingan": "Medium",
+      "Rasio": "1:16",
+      "Suhu": "91 derajat",
+      "Resep": "<p>00:45 Tuangkan 60 ml air dan biarkan blooming dalam 45 detik.</p>\n<p>00:45 &ndash; 01:30 Tuangkan 70 ml pour</p>\n<p>01:30 &ndash; 02:15 Tuangkan 50 ml air</p>\n<p>02:15 &ndash; 03:00 Tuangkan 60 ml air</p>\n<p>Sajikan</p>"
+    },
+    {
+      "nama": "Fawaz Alhatem",
+      "jenis": "Aeropress",
+      "Juara": "Taiwanese Aeropress Champion 2022",
+      "Bahan": "18 gr kopi",
+      "Gilingan": "Medium",
+      "Rasio": "1:15",
+      "Suhu": "88 derajat",
+      "Resep": "<p>Mulai waktu dan tuangkan 40 ml air dan tunggu mekar</p>\n<p>Pada 45 detik. tambahkan 90 ml air</p>\n<p>Pada 1:40, tambahkan 50 ml air</p>\n<p>Pada 2:20, Aduk terus dengan gerakan melingkar sebanyak 4 kali</p>\n<p>Pada 2:40, tutup penutupnya dan keluarkan udara berlebih</p>\n<p>Pada 3:00, balik perlahan</p>\n<p>Pada 3:20, tekan ke bawah hingga 3:35.</p>\n<p>Berputar pada 3:40-3:45, dan pada akhirnya, tuangkan dari ketinggian ke teko lainnya.</p>\n<p>Sajikan</p>"
+    },
+    {
+      "nama": "Chang-Ting Kuo",
+      "jenis": "Aeropress",
+      "Juara": "Taiwanese Aeropress Champion 2022",
+      "Bahan": "18 gr kopi",
+      "Gilingan": "Medium",
+      "Rasio": "1:15",
+      "Suhu": "86 derajat",
+      "Resep": "<p>Mulai waktu dan tuangkan 30 ml air dan tunggu mekar</p>\n<p>Pada 45 detik. tambahkan 100 ml air</p>\n<p>Pada 1:40, tambahkan 60 ml air</p>\n<p>Pada 2:20, Aduk terus dengan gerakan melingkar sebanyak 6 kali</p>\n<p>Pada 2:40, tutup penutupnya dan keluarkan udara berlebih</p>\n<p>Pada 3:00, balik perlahan</p>\n<p>Pada 3:20, tekan ke bawah hingga 3:35.</p>\n<p>Berputar pada 3:40-3:45, dan pada akhirnya, tuangkan dari ketinggian ke teko lainnya.</p>\n<p>Sajikan</p>"
+    },
+    {
+      "nama": "Pierre De Chanterac",
+      "jenis": "Aeropress",
+      "Juara": "Taiwanese Aeropress Champion 2022",
+      "Bahan": "18 gr kopi",
+      "Gilingan": "Medium",
+      "Rasio": "1:18",
+      "Suhu": "87 derajat",
+      "Resep": "<p>Mulai waktu dan tuangkan 40 ml air dan tunggu mekar</p>\n<p>Pada 45 detik. tambahkan 110 ml air</p>\n<p>Pada 1:40, tambahkan 60 ml air</p>\n<p>Pada 2:20, Aduk terus dengan gerakan melingkar sebanyak 5 kali</p>\n<p>Pada 2:40, tutup penutupnya dan keluarkan udara berlebih</p>\n<p>Pada 3:00, balik perlahan</p>\n<p>Pada 3:20, tekan ke bawah hingga 3:35.</p>\n<p>Berputar pada 3:40-3:45, dan pada akhirnya, tuangkan dari ketinggian ke teko lainnya.</p>\n<p>Sajikan</p>"
+    }
+  ]
+}
