@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
 
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+// Pages
+import LandingPage from "./pages/LandingPage";
+// Components
+import Header from "./components/Header";
+import "./App.css";
+import ChampionPageV60 from "./pages/ChampionPageV60";
+import ChampionPageAeropress from "./pages/ChampionPageAeropress";
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+return (
+<div className="App">
+<Header />
+<Router>
+<Routes>
+<Route exact path="/" element={<LandingPage/>} />
+<Route exact path="/ChampionPageV60" element={<ChampionPageV60/>} />
+<Route exact path="/ChampionPageAeropress" element={<ChampionPageAeropress/>} />
+</Routes>
+</Router>
+</div>
+);
 }
-
 export default App;

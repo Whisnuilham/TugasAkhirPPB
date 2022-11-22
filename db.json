@@ -1,6 +1,7 @@
 {
   "champion": [
     {
+      "id" : 1,
       "nama": "Tetsu Katsuya",
       "jenis": "V60",
       "Juara": "World Brewers Cup 2016",
@@ -11,6 +12,7 @@
       "Resep": "<p>Untuk proses pouring pertama yaitu 40%, air yang dituangkan adalah sebanyak 120 gram&mdash;namun dilakukan dalam 2 tahap.</p>\n<p>00:45 Tuangkan 50 ml air dan biarkan blooming dalam 45 detik.</p>\n<p>00:45 &ndash; 1:30 Tuangkan 70 ml pour</p>\n<p>Proses pouring pertama yang 40% ini menentukan level acidity, balance, dan sweetness dari kopi.</p>\n<p>Untuk pouring kedua yaitu 60%, air yang dituangkan adalah sebanyak 180 grams dan dilakukan dalam 3 tahap. Sementara pouring kedua yang 60%, akan menentukan level kekuatan/strength dari kopi itu.</p>\n<p>01:30 &ndash; 02:10 Tuangkan 60 ml air</p>\n<p>02:10 &ndash; 02:45 Tuangkan 60 ml air</p>\n<p>02:45 &ndash; 03:00 Tuangkan 60 ml pour</p>\n<p>03:00 &ndash; 03:30 Angkat dripper</p>\n<p>Sajikan pada cangkir keramik.</p>"
     },
     {
+      "id" : 2,
       "nama": "Shih Yuan Hsu",
       "jenis": "V60",
       "Juara": "World Brewers Cup 2022",
@@ -21,6 +23,7 @@
       "Resep": "<p>00:30 Tuangkan 50 ml air dan biarkan blooming dalam 30 detik.</p>\n<p>00:30 &ndash; 01:00 Tuangkan 50 ml pour</p>\n<p>01:00 &ndash; 01:30 Tuangkan 50 ml air</p>\n<p>01:30 &ndash; 02:00 Tuangkan 50 ml air</p>\n<p>Sajikan</p>"
     },
     {
+      "id" : 3,
       "nama": "Jhon Christoper",
       "jenis": "V60",
       "Juara": "World Brewers Cup 2022",
@@ -31,6 +34,7 @@
       "Resep": "<p>00:30 Tuangkan 40 ml air dan biarkan blooming dalam 30 detik.</p>\n<p>00:30 &ndash; 01:25 Tuangkan 120 ml pour</p>\n<p>01:25 &ndash; 02:25 Tuangkan 70 ml air</p>\n<p>Sajikan</p>"
     },
     {
+      "id" : 4,
       "nama": "Elika Liftee",
       "jenis": "V60",
       "Juara": "World Brewers Cup 2022",
@@ -41,6 +45,7 @@
       "Resep": "<p>00:45 Tuangkan 50 ml air dan biarkan blooming dalam 45 detik.</p>\n<p>00:45 &ndash; 01:30 Tuangkan 50 ml pour</p>\n<p>01:30 &ndash; 02:15 Tuangkan 50 ml air</p>\n<p>02:15 &ndash; 03:00 Tuangkan 50 ml air</p>\n<p>03:00 &ndash; 03:45 Tuangkan 50 ml air</p>\n<p>Sajikan</p>"
     },
     {
+      "id" : 5,
       "nama": "Elysia Tan",
       "jenis": "V60",
       "Juara": "World Brewers Cup 2022",
@@ -51,6 +56,7 @@
       "Resep": "<p>00:45 Tuangkan 60 ml air dan biarkan blooming dalam 45 detik.</p>\n<p>00:45 &ndash; 01:30 Tuangkan 70 ml pour</p>\n<p>01:30 &ndash; 02:15 Tuangkan 50 ml air</p>\n<p>02:15 &ndash; 03:00 Tuangkan 60 ml air</p>\n<p>Sajikan</p>"
     },
     {
+      "id" : 6,
       "nama": "Fawaz Alhatem",
       "jenis": "Aeropress",
       "Juara": "Taiwanese Aeropress Champion 2022",
@@ -61,6 +67,7 @@
       "Resep": "<p>Mulai waktu dan tuangkan 40 ml air dan tunggu mekar</p>\n<p>Pada 45 detik. tambahkan 90 ml air</p>\n<p>Pada 1:40, tambahkan 50 ml air</p>\n<p>Pada 2:20, Aduk terus dengan gerakan melingkar sebanyak 4 kali</p>\n<p>Pada 2:40, tutup penutupnya dan keluarkan udara berlebih</p>\n<p>Pada 3:00, balik perlahan</p>\n<p>Pada 3:20, tekan ke bawah hingga 3:35.</p>\n<p>Berputar pada 3:40-3:45, dan pada akhirnya, tuangkan dari ketinggian ke teko lainnya.</p>\n<p>Sajikan</p>"
     },
     {
+      "id" : 7,
       "nama": "Chang-Ting Kuo",
       "jenis": "Aeropress",
       "Juara": "Taiwanese Aeropress Champion 2022",
@@ -71,6 +78,7 @@
       "Resep": "<p>Mulai waktu dan tuangkan 30 ml air dan tunggu mekar</p>\n<p>Pada 45 detik. tambahkan 100 ml air</p>\n<p>Pada 1:40, tambahkan 60 ml air</p>\n<p>Pada 2:20, Aduk terus dengan gerakan melingkar sebanyak 6 kali</p>\n<p>Pada 2:40, tutup penutupnya dan keluarkan udara berlebih</p>\n<p>Pada 3:00, balik perlahan</p>\n<p>Pada 3:20, tekan ke bawah hingga 3:35.</p>\n<p>Berputar pada 3:40-3:45, dan pada akhirnya, tuangkan dari ketinggian ke teko lainnya.</p>\n<p>Sajikan</p>"
     },
     {
+      "id" : 8,
       "nama": "Pierre De Chanterac",
       "jenis": "Aeropress",
       "Juara": "Taiwanese Aeropress Champion 2022",
