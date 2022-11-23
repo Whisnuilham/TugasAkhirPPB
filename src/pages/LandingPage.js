@@ -4,10 +4,13 @@ import axios from "axios";
 // Components
 import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
+import { Grid } from "@mui/material";
 import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
+import CardMedia from '@mui/material/CardMedia';
+import { CardActionArea } from '@mui/material';
 
 export default function LandingPage() {
     const [data, setData] = useState(null);
@@ -58,24 +61,61 @@ export default function LandingPage() {
     };
     return (
         <main>
-            <a href="/ChampionPageV60">
-                <Card sx={{ minWidth: 275 }}>
-                    <CardContent>
-                        <Typography sx={{ fontSize: 24 }} color="text.secondary" gutterBottom>
-                        V60
-                        </Typography>
-                    </CardContent>
-                </Card>
+            <Grid container spacing={3}
+            direction="row"
+            justifyContent="center"
+            alignItems="center">
+            <Grid item xs={12} lg={6}>
+
+  <a href="/ChampionPageV60">
+  <Card sx={{  }}>
+      <CardActionArea>
+        <CardMedia
+          component="img"
+          height="440"
+          image="https://asset.kompas.com/crops/61JPngLXQ7_4OMhnTY-mtZkAwKc=/0x31:1000x697/750x500/data/photo/2020/06/01/5ed4efe6455df.jpg"
+          alt="green iguana"
+        />
+        <CardContent>
+          <Typography gutterBottom variant="h5" component="div">
+            V60
+          </Typography>
+          <Typography variant="body2" color="text.secondary">
+            Lizards are a widespread group of squamate reptiles, with over 6,000
+            species, ranging across all continents except Antarctica
+          </Typography>
+        </CardContent>
+      </CardActionArea>
+    </Card>
             </a>
-            <a href="/ChampionPageAeropress">
-                <Card sx={{ minWidth: 275 }}>
-                    <CardContent>
-                        <Typography sx={{ fontSize: 24 }} color="text.secondary" gutterBottom>
-                        Aeropress
-                        </Typography>
-                    </CardContent>
-                </Card>
+  </Grid>
+  <Grid item xs={12} lg={6}>
+  <a href="/ChampionPageAeropress" style={{marginTop: 4,}}>
+  <Card sx={{  }}>
+      <CardActionArea>
+        <CardMedia
+          component="img"
+          height="440"
+          image="https://res.cloudinary.com/pactcoffee/image/upload/f_auto,q_auto/v1586974345/website-d2c/assets/uploadedCMS/aeropress-plunge.png"
+          alt="green iguana"
+        />
+        <CardContent>
+          <Typography gutterBottom variant="h5" component="div">
+            Aeropress
+          </Typography>
+          <Typography variant="body2" color="text.secondary">
+            Lizards are a widespread group of squamate reptiles, with over 6,000
+            species, ranging across all continents except Antarctica
+          </Typography>
+        </CardContent>
+      </CardActionArea>
+    </Card>
             </a>
+  </Grid>
+
+</Grid>
+            
+           
         </main>
     );
 }

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
+import {Link, useNavigate} from 'react-router-dom';
 
 // Components
 import Card from "../components/Card";
@@ -48,9 +49,13 @@ export default function ChampionPageAeropress() {
         setQuery(e.target.value);
     }
     };
-    const handleClick = (item) => {
-        setModalShow(!modalShow);
-        setModalItem(item);
+    const navigate = useNavigate();
+    const handleClick = (id) => {
+        navigate('/DetailPage', {
+            state: {
+                id: id
+            }
+        });
     };
     return (
         <main>
@@ -60,7 +65,7 @@ export default function ChampionPageAeropress() {
             ) : (  <div className="card-container">
             {data.map((item, index) => {
                 return (
-                <Card data={item} key={index} onClick={()=>handleClick(item)} />
+                <Card data={item} key={index} onClick={()=>handleClick(item.id)} />
                 );
             })}
             </div>)
