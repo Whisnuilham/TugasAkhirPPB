@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import {Link, useNavigate} from 'react-router-dom';
+import { Grid } from "@mui/material";
 
 // Components
 import Card from "../components/Card";
@@ -59,17 +60,27 @@ export default function ChampionPageAeropress() {
     };
     return (
         <main>
+            <h3 style={{marginBottom:10}}>
+                Resep para juara Champion Aeropress
+            </h3>
            
-            {!data || isLoading ? ( 
-            <p>Loading...</p> 
-            ) : (  <div className="card-container">
-            {data.map((item, index) => {
-                return (
-                <Card data={item} key={index} onClick={()=>handleClick(item.id)} />
-                );
-            })}
-            </div>)
-        }
-        </main>
+        {!data || isLoading ? ( 
+        <p>Loading...</p> 
+        ) : (  
+            <Grid container spacing={3}
+            direction="row"
+            justifyContent="center"
+            alignItems="center">
+       
+
+        {data.map((item, index) => {
+            return (
+            <Card data={item} key={index} onClick={()=>handleClick(item.id)} />
+            );
+        })}
+        </Grid>
+        )
+    }
+    </main>
     );
 }

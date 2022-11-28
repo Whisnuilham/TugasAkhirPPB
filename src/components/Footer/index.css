@@ -1,0 +1,20 @@
+/* index.css */
+footer {
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #181818;
+    color: #ffffff;
+    margin-bottom: 0px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+ }
+
+footer .h3 {
+    font-size: 32px;
+    font-weight: bold;
+}

@@ -5,8 +5,8 @@ import "./index.css";
 export default function index() {
     return (
         <header>
-            <h3>Kelompok 11</h3>
-            <p>Modul 6 - PWA 2</p>
+            <h3>Recipy of Manual Coffee Brew</h3>
+            <p>Whisnu Tauhid Ilham Saputra</p>
         </header>
     );
 }

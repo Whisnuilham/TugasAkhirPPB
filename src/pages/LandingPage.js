@@ -64,11 +64,13 @@ export default function LandingPage() {
             <Grid container spacing={3}
             direction="row"
             justifyContent="center"
-            alignItems="center">
+            alignItems="center"
+            sx={{marginBottom:10}}
+            >
             <Grid item xs={12} lg={6}>
 
   <a href="/ChampionPageV60">
-  <Card sx={{  }}>
+  <Card sx={{margin:5 }}>
       <CardActionArea>
         <CardMedia
           component="img"
@@ -90,8 +92,8 @@ export default function LandingPage() {
             </a>
   </Grid>
   <Grid item xs={12} lg={6}>
-  <a href="/ChampionPageAeropress" style={{marginTop: 4,}}>
-  <Card sx={{  }}>
+  <a href="/ChampionPageAeropress" style={{marginTop: 5,}}>
+  <Card sx={{ margin:5 }}>
       <CardActionArea>
         <CardMedia
           component="img"
