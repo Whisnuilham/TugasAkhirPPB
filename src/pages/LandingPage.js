@@ -83,8 +83,9 @@ export default function LandingPage() {
             V60
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+          salah satu alat seduh kopi yang mengguanakan metode pour over. 
+          Jika dilihat kasat mata, bentuk dari alat ini mirip dengan cangkir. 
+          Alat seduh kopi satu ini memiliki bentuk kerucut pada bagian bawahnya dan akan mengalirkan kopi yang sudah disaring oleh kertas filter.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -106,8 +107,7 @@ export default function LandingPage() {
             Aeropress
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+          Aeropress adalah sebuah alat seduh kopi manual yang diciptakan oleh orang berkebangsaan Amerika yang bernama Alan Adler pada tahun 2005.
           </Typography>
         </CardContent>
       </CardActionArea>

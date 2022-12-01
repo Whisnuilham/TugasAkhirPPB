@@ -22,11 +22,12 @@ export default function AboutPage() {
           <CoffeeIcon sx={{ fontSize: 150}} color="" />
 
           <Typography sx={{ fontSize: 14, mt: 1 }} gutterBottom>
-            Nama : Whisnu Tauhid Ilham Saputra
+            Recipy of Manual Cofffe Brew
           </Typography>
           <Typography variant="h5" component="div"></Typography>
-          <Typography sx={{ mb: 1 }}>Nim : 21120120140176</Typography>
-          <Typography variant="body2">well meaning and kindly.</Typography>
+          <Typography sx={{ mb: 1 }}>
+            Sebuah aplikasi resep kopi dengan metode manual brew yang menampilkan resep resep dari para pemenang lomba kopi internasional.
+          </Typography>
           <Button
           sx={{marginTop: 5}}
           variant="contained" href="/Home">

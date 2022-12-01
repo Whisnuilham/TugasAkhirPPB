@@ -27,12 +27,12 @@ export default function ProfilePage() {
              />
             </Container>
         
-          <Typography sx={{ fontSize: 14, mt:1 }}  gutterBottom>
+          <Typography sx={{ fontSize: 15, mt:1 }}  gutterBottom>
             Nama : Whisnu Tauhid Ilham Saputra         
           </Typography>
           <Typography variant="h5" component="div">
           </Typography>
-          <Typography sx={{ mb: 1.5 }} >
+          <Typography sx={{ fontSize: 15, mb: 1.5 }} >
             Nim : 21120120140176
           </Typography>
           <Typography variant="body2">
