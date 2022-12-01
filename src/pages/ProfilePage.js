@@ -36,7 +36,7 @@ export default function ProfilePage() {
             Nim : 21120120140176
           </Typography>
           <Typography variant="body2">
-            well meaning and kindly.
+            Kopi yang enak akan menemukan penikmatnya.
           
           </Typography>
         </CardContent>
